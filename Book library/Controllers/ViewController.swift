@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         self.booksTableView.dataSource = self
         
         // registering the cell created to the table view
-        self.booksTableView.register(UINib(nibName: "BookViewCell", bundle: nil), forCellReuseIdentifier: K.cellIdentifier)
+        self.booksTableView.register(UINib(nibName: K.cellNibName, bundle: nil), forCellReuseIdentifier: K.cellIdentifier)
         
         
     }
