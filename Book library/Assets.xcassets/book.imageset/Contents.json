@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-scalable-vector-graphics-book-clip-art-encapsulate-new-project-5b6659eb1b7be2.4400563115334343471126-1.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "kisspng-scalable-vector-graphics-book-clip-art-encapsulate-new-project-5b6659eb1b7be2.4400563115334343471126.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "pngkit_teaching-icon-png_3812397.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
